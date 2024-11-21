@@ -27,8 +27,8 @@
 - (438) Find All Anagrams in a String +
 
 Структуры данных
-- (380) Insert Delete GetRandom O(1)
-- (706) Design HashMap
+- (380) Insert Delete GetRandom O(1) +
+- (706) Design HashMap +
 
 ## Arrays
 
