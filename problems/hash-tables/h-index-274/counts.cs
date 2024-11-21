@@ -1,7 +1,7 @@
 public class Solution
 {
     // Time: O(n)
-	// Space: O(n)
+    // Space: O(n)
     public int HIndex(int[] citations)
     {
         int totalPapers = citations.Length;
@@ -15,7 +15,7 @@ public class Solution
         int papersCount = 0;
 
         for (int hIndex = totalPapers; hIndex > 0; hIndex--)
-        {   
+        {
             papersCount += counts[hIndex];
 
             if (papersCount >= hIndex)
