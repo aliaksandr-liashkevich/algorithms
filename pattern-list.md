@@ -33,4 +33,4 @@
 ## Arrays
 
 Сумма значений и индексов при нахождении ответа
-- (268) Missing Number
+- (268) Missing Number +
