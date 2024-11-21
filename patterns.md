@@ -18,3 +18,14 @@
 - (2657) Find the Prefix Common Array of Two Arrays +
 - (274) H-Index +
 - (266) Palindrome Permutation +
+- (1832) Check if the Sentence Is Pangram +
+- (1426) Counting Elements +
+- (2150) Find All Lonely Numbers in the Array +
+- (340) Longest Substring with At Most K Distinct Characters +
+- (2342) Max Sum of a Pair With Equal Sum of Digits +
+- (2351) First Letter to Appear Twice +
+
+## Arrays
+
+Сумма значений и индексов при нахождении ответа
+- (268) Missing Number
