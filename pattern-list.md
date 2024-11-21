@@ -24,6 +24,11 @@
 - (340) Longest Substring with At Most K Distinct Characters +
 - (2342) Max Sum of a Pair With Equal Sum of Digits +
 - (2351) First Letter to Appear Twice +
+- (438) Find All Anagrams in a String +
+
+Структуры данных
+- (380) Insert Delete GetRandom O(1)
+- (706) Design HashMap
 
 ## Arrays
 

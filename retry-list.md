@@ -3,4 +3,4 @@ Hash Tables
 - (266) Palindrome Permutation
 - (340) Longest Substring with At Most K Distinct Characters
 - (380) Insert Delete GetRandom O(1)
-- (706) Design Hashmap
+- (706) Design HashMap
