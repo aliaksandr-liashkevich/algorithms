@@ -25,6 +25,11 @@
 - (2342) Max Sum of a Pair With Equal Sum of Digits +
 - (2351) First Letter to Appear Twice +
 - (438) Find All Anagrams in a String +
+- (1941) Check if All Characters Have Equal Number of Occurrences +
+- (2225) Find Players With Zero or One Losses +
+- (2248) Intersection of Multiple Arrays +
+- (1133) Largest Unique Number +
+- (1189) Maximum Number of Balloons +
 
 Структуры данных
 - (380) Insert Delete GetRandom O(1) +
@@ -34,3 +39,7 @@
 
 Сумма значений и индексов при нахождении ответа
 - (268) Missing Number +
+
+Префиксы
+- (1248) Count Number of Nice Subarrays +
+- (560) Subarray Sum Equals K +
