@@ -31,6 +31,10 @@
 - (1133) Largest Unique Number +
 - (1189) Maximum Number of Balloons +
 
+Префиксы
+- (1248) Count Number of Nice Subarrays +
+- (560) Subarray Sum Equals K +
+
 Структуры данных
 - (380) Insert Delete GetRandom O(1) +
 - (706) Design HashMap +
@@ -39,7 +43,3 @@
 
 Сумма значений и индексов при нахождении ответа
 - (268) Missing Number +
-
-Префиксы
-- (1248) Count Number of Nice Subarrays +
-- (560) Subarray Sum Equals K +
