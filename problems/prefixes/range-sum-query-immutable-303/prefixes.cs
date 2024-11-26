@@ -14,7 +14,6 @@ public class NumArray
         }
     }
 
-
     // Time: O(1)
     // Space: O(1)
     public int SumRange(int left, int right)
