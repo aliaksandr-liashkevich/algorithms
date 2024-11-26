@@ -15,7 +15,7 @@
 // };
 
 // IList<int> result = new Solution().FindCompetitionWinners(stats);
-// result == [1, 3]
+// bool isPassed = result.SequenceEqual([1, 3]);
 
 public class Solution
 {

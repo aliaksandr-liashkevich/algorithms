@@ -30,16 +30,26 @@
 - (2248) Intersection of Multiple Arrays +
 - (1133) Largest Unique Number +
 - (1189) Maximum Number of Balloons +
-
-Префиксы
-- (1248) Count Number of Nice Subarrays +
-- (560) Subarray Sum Equals K +
+- Find Competition Winners +
 
 Структуры данных
 - (380) Insert Delete GetRandom O(1) +
 - (706) Design HashMap +
 
+## Prefixes
+
+Префиксные
+- (1248) Count Number of Nice Subarrays +
+- (560) Subarray Sum Equals K +
+- (724) Find Pivot Index +
+- (303) Range Sum Query - Immutable
+- Max Queen Sum +
+
 ## Arrays
+
+Общие
+- (1464) Maximum Product of Two Elements in an Array +
+- (896) Monotonic Array +
 
 Сумма значений и индексов при нахождении ответа
 - (268) Missing Number +
