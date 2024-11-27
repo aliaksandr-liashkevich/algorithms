@@ -46,12 +46,17 @@
 - (724) Find Pivot Index +
 - (303) Range Sum Query - Immutable
 - Max Queen Sum +
+- (304) Range Sum Query 2D - Immutable +
+- (1310) XOR Queries of a Subarray +
 
 ## Arrays
 
 Общие
 - (1464) Maximum Product of Two Elements in an Array +
 - (896) Monotonic Array +
+- (674) Longest Continuous Increasing Subsequence +
+- (1984) Minimum Difference Between Highest and Lowest of K Scores +
+- (189) Rotate Array +
 
 Сумма значений и индексов при нахождении ответа
 - (268) Missing Number +
