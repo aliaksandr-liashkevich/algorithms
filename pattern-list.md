@@ -35,6 +35,8 @@
 Структуры данных
 - (380) Insert Delete GetRandom O(1) +
 - (706) Design HashMap +
+- (146) LRU Cache +
+- (460) LFU Cache +
 
 ## Prefixes
 
