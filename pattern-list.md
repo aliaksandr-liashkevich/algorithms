@@ -60,3 +60,17 @@
 
 Сумма значений и индексов при нахождении ответа
 - (268) Missing Number +
+
+## Backtracking
+
+- (22) Generate Parentheses +
+- (17) Letter Combinations of a Phone Number +
+
+## Sliding window
+
+- (392) Is Subsequence +
+- (88) Merge Sorted Array +
+- (344) Reverse String +
+- (977) Squares of a Sorted Array +
+- (167) Two Sum II - Input Array Is Sorted +
+- (125) Valid Palindrome +
