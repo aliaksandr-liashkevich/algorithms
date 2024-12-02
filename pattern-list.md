@@ -57,6 +57,8 @@
 - (674) Longest Continuous Increasing Subsequence +
 - (1984) Minimum Difference Between Highest and Lowest of K Scores +
 - (189) Rotate Array +
+- Add Two Numbers
+- (14) Longest Common Prefix
 
 Сумма значений и индексов при нахождении ответа
 - (268) Missing Number +
@@ -65,6 +67,7 @@
 
 - (22) Generate Parentheses +
 - (17) Letter Combinations of a Phone Number +
+- Generate Combinations
 
 ## Sliding window
 
@@ -74,3 +77,8 @@
 - (977) Squares of a Sorted Array +
 - (167) Two Sum II - Input Array Is Sorted +
 - (125) Valid Palindrome +
+- Longest Subarray Sum Less or Equal
+- (485) Max Consecutive Ones
+- (487) Max Consecutive Ones 2
+- (1004) Max Consecutive Ones 3
+
