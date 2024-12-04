@@ -85,6 +85,7 @@
 - (849) Maximize Distance to Closest Person +
 - (443) String Compression +
 - (228) Summary Ranges +
+- (567) Permutation in String +
 
 ## Two Pointers
 - (844) Backspace String Compare +

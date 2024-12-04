@@ -7,3 +7,6 @@ Hash Tables
 
 Prefix Sums
 - (560) Subarray Sum Equals K
+
+Sliding Window
+- (567) Permutation in String
