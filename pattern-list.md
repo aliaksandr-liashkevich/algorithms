@@ -24,7 +24,6 @@
 - (340) Longest Substring with At Most K Distinct Characters +
 - (2342) Max Sum of a Pair With Equal Sum of Digits +
 - (2351) First Letter to Appear Twice +
-- (438) Find All Anagrams in a String +
 - (1941) Check if All Characters Have Equal Number of Occurrences +
 - (2225) Find Players With Zero or One Losses +
 - (2248) Intersection of Multiple Arrays +
@@ -81,4 +80,16 @@
 - (485) Max Consecutive Ones
 - (487) Max Consecutive Ones 2
 - (1004) Max Consecutive Ones 3
+- (438) Find All Anagrams in a String +
+- (3) Longest Substring Without Repeating Characters +
+- (849) Maximize Distance to Closest Person +
+- (443) String Compression +
+- (228) Summary Ranges +
 
+## Two Pointers
+- (844) Backspace String Compare +
+- (11) Container With Most Water +
+- Intersection Of Sorted Arrays +
+- (283) Move Zeroes +
+- (161) One Edit Distance +
+- (977) Squares of a Sorted Array +
