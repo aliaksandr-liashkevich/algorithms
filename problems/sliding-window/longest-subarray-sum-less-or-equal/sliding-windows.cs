@@ -1,4 +1,4 @@
-// int[] nums = [3, 1, 2, 7, 4, 2, 1, 1, 5];
+// int[] nums = [3, 1, 2, 11, 4, 2, 1, 1, 5];
 // int k = 8;
 
 // int answer = new Solution().LongestSubarraySumLessOrEqual(nums, k);
@@ -17,8 +17,8 @@ public class Solution
         }
 
         int l = 0;
-        int r = 0;
-        int currSum = nums[r];
+        int r = -1;
+        int currSum = 0;
         int answer = 0;
 
         while (l < nums.Length)
@@ -33,12 +33,6 @@ public class Solution
 
             currSum -= nums[l];
             l++;
-
-            if (r < l && l < nums.Length)
-            {
-                r = l;
-                currSum += nums[r];
-            }
         }
 
         return answer;

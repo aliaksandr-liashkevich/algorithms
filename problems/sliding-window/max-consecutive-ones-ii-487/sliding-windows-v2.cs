@@ -10,16 +10,16 @@ public class Solution
         }
 
         int l = 0;
-        int zeroCount = 0;
+        int zerosCount = 0;
         int answer = 0;
 
         for (int r = 0; r < nums.Length; r++)
         {
-            zeroCount += GetOneIfZero(r);
+            zerosCount += GetOneIfZero(r);
 
-            while (zeroCount > 1)
+            while (zerosCount > 1)
             {
-                zeroCount -= GetOneIfZero(l);
+                zerosCount -= GetOneIfZero(l);
                 l++;
             }
 

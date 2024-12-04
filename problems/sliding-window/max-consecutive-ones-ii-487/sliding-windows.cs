@@ -10,13 +10,13 @@ public class Solution
         }
 
         int l = 0;
-        int r = 0;
-        int zeroCount = GetOneIfZero(r);
+        int r = -1;
+        int zeroCount = 0;
         int answer = 0;
 
         while (l < nums.Length)
         {
-            while ((r + 1) < nums.Length && (nums[r + 1] == 1 || zeroCount == 0))
+            while ((r + 1) < nums.Length && (nums[r + 1] == 1 || zeroCount < 1))
             {
                 r++;
                 zeroCount += GetOneIfZero(r);
@@ -26,12 +26,6 @@ public class Solution
 
             zeroCount -= GetOneIfZero(l);
             l++;
-
-            if (r < l && l < nums.Length)
-            {
-                r = l;
-                zeroCount += GetOneIfZero(r);
-            }
         }
 
         return answer;
