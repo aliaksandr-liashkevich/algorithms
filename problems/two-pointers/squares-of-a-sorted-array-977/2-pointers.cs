@@ -1,7 +1,7 @@
 public class Solution
 {
     // Time: O(n)
-    // Space: O(1)
+    // Space: O(n)
     public int[] SortedSquares(int[] nums)
     {
         int l = 0;
@@ -12,17 +12,14 @@ public class Solution
 
         while (r >= l)
         {
-            int lSquare = nums[l] * nums[l];
-            int rSquare = nums[r] * nums[r];
-
-            if (lSquare > rSquare)
+            if (Math.Abs(nums[l]) > Math.Abs(nums[r]))
             {
-                answer[p] = lSquare;
+                answer[p] = nums[l] * nums[l];
                 l++;
             }
             else
             {
-                answer[p] = rSquare;
+                answer[p] = nums[r] * nums[r];
                 r--;
             }
 
