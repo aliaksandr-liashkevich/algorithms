@@ -86,6 +86,8 @@
 - (443) String Compression +
 - (228) Summary Ranges +
 - (567) Permutation in String +
+- (643) Maximum Average Subarray I +
+- (1446) Consecutive Characters +
 
 ## Two Pointers
 - (844) Backspace String Compare +
