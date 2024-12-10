@@ -110,3 +110,10 @@
 - (33) Search in Rotated Sorted Array +
 - (69) Sqrt(x)
 - (367) Valid Perfect Square +
+
+## Linked List
+- (876) Middle of the Linked List +
+- (206) Reverse Linked List +
+- (234) Palindrome Linked List +
+- (21) Merge Two Sorted Lists +
+- (19) Remove Nth Node From End of List +
