@@ -88,6 +88,7 @@
 - (567) Permutation in String +
 - (643) Maximum Average Subarray I +
 - (1446) Consecutive Characters +
+- (424) Longest Repeating Character Replacement - (only directive)
 
 ## Two Pointers
 - (844) Backspace String Compare +
@@ -99,3 +100,13 @@
 
 ## Heaps
 - (215) Kth Largest Element in an Array +
+- Min and Max Heap +
+
+## Binary Search
+- (704) Binary Search +
+- (34) Find First and Last Position of Element in Sorted Array +
+- (153) Find Minimum in Rotated Sorted Array +
+- (74) Search a 2D Matrix +
+- (33) Search in Rotated Sorted Array +
+- (69) Sqrt(x)
+- (367) Valid Perfect Square +
