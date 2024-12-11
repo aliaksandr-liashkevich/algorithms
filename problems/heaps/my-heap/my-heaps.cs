@@ -5,10 +5,11 @@ public class Heap
     private readonly List<int> _items;
     private readonly IComparer<int> _comparer;
 
-    public Heap(IComparer<int> comparer)
+    public Heap(IComparer<int> comparer, int[] unweightedItems = null)
     {
-        _items = new();
         _comparer = comparer;
+        _items = new List<int>(unweightedItems ?? []);
+        BuildHeap();
     }
 
     public bool IsEmpty => _items.Count == 0;
@@ -44,14 +45,14 @@ public class Heap
         return top;
     }
 
-    public static Heap CreateMaxHeap()
+    public static Heap CreateMaxHeap(int[] unweightedItems = null)
     {
-        return new Heap(Comparer<int>.Create((a, b) => b.CompareTo(a)));
+        return new Heap(Comparer<int>.Create((a, b) => b.CompareTo(a)), unweightedItems);
     }
 
-    public static Heap CreateMinHeap()
+    public static Heap CreateMinHeap(int[] unweightedItems = null)
     {
-        return new Heap(Comparer<int>.Create((a, b) => a.CompareTo(b)));
+        return new Heap(Comparer<int>.Create((a, b) => a.CompareTo(b)), unweightedItems);
     }
 
     private void ShiftUp(int i)
@@ -89,6 +90,17 @@ public class Heap
         {
             Swap(nextIndex, i);
             ShiftDown(nextIndex);
+        }
+    }
+
+    private void BuildHeap()
+    {
+        int count = _items.Count;
+
+        for (int i = count / 2 - 1; i >= 0; i--)
+        {
+            // Heapify ~ Shift Down
+            ShiftDown(i);
         }
     }
 
