@@ -56,8 +56,9 @@
 - (674) Longest Continuous Increasing Subsequence +
 - (1984) Minimum Difference Between Highest and Lowest of K Scores +
 - (189) Rotate Array +
-- Add Two Numbers
-- (14) Longest Common Prefix
+- Add Two Numbers +
+- (14) Longest Common Prefix +
+- (498) Diagonal Traverse +
 
 Сумма значений и индексов при нахождении ответа
 - (268) Missing Number +
