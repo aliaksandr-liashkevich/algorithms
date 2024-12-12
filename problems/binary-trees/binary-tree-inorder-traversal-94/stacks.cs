@@ -14,7 +14,7 @@
 public class Solution
 {
     // Time: O(n)
-    // Space: O(n+h)
+    // Space: O(n)
     public IList<int> InorderTraversal(TreeNode root)
     {
         List<int> nums = new();
