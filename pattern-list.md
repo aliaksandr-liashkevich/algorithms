@@ -118,3 +118,12 @@
 - (234) Palindrome Linked List +
 - (21) Merge Two Sorted Lists +
 - (19) Remove Nth Node From End of List +
+
+## Tree
+Обходы
+- (144) Binary Tree Preorder Traversal +
+- (94) Binary Tree Inorder Traversal +
+- (145) Binary Tree Postorder Traversal +
+- (102) Binary Tree Level Order Traversal +
+- (107) Binary Tree Level Order Traversal II +
+- (199) Binary Tree Right Side View +
