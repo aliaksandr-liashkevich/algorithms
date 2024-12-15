@@ -119,7 +119,7 @@
 - (21) Merge Two Sorted Lists +
 - (19) Remove Nth Node From End of List +
 
-## Tree
+## Binary Tree
 Обходы
 - (144) Binary Tree Preorder Traversal +
 - (94) Binary Tree Inorder Traversal +
@@ -127,3 +127,22 @@
 - (102) Binary Tree Level Order Traversal +
 - (107) Binary Tree Level Order Traversal II +
 - (199) Binary Tree Right Side View +
+- (103) Binary Tree Zigzag Level Order Traversal +
+
+Общие
+- (2236) Root Equals Sum of Children +
+- (404) Sum of Left Leaves +
+- (104) Maximum Depth of Binary Tree +
+- (543) Diameter of Binary Tree +
+- (110) Balanced Binary Tree +
+- (98) Validate Binary Search Tree +
+- Validate Tree Leaves
+- (108) Convert Sorted Array to Binary Search Tree +
+- (270) Closest Binary Search Tree Value +
+- (230) Kth Smallest Element in a BST +
+- Kth Largest Element in a BST +
+- (1650) Lowest Common Ancestor of a Binary Tree III +
+- (112) Path Sum +
+- (437) Path Sum III +
+- (100) Same Tree +
+- (101) Symmetric Tree +
