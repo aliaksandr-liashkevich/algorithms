@@ -11,7 +11,7 @@
  */
 public class Solution
 {
-    // Time: O(n1 + n2)
+    // Time: O(min(p1, p2))
     // Space: O(1)
     public ListNode MergeTwoLists(ListNode p1, ListNode p2)
     {
@@ -36,21 +36,7 @@ public class Solution
             p = p.next;
         }
 
-        // O(n1 - min(n1, n2))
-        while (p1 is not null)
-        {
-            p.next = p1;
-            p1 = p1.next;
-            p = p.next;
-        }
-
-        // O(n2 - min(n1, n2))
-        while (p2 is not null)
-        {
-            p.next = p2;
-            p2 = p2.next;
-            p = p.next;
-        }
+        p.next = p1 ?? p2;
 
         return dummy.next;
     }
