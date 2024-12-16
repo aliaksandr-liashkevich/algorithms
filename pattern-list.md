@@ -167,3 +167,4 @@
 
 ## Stack
 - (20) Valid Parentheses
+- (739) Daily Temperatures
