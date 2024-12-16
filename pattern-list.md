@@ -155,16 +155,17 @@
 - (208) Implement Trie (Prefix Tree) +
 
 ## Competitions
-- (1572) Matrix Diagonal Sum
-- (15) 3Sum
-- (16) 3Sum Closest
+- (1572) Matrix Diagonal Sum +
+- (15) 3Sum +
+- (16) 3Sum Closest +
 - Simple Calculator +
 - Chance of Meatball Precipitations +
 
 ## Intervals
-- (56) Merge Intervals
-- (253) Meeting Rooms II
+- (56) Merge Intervals +
+- (253) Meeting Rooms II +
 
 ## Stack
-- (20) Valid Parentheses
-- (739) Daily Temperatures
+- (20) Valid Parentheses +
+- (739) Daily Temperatures +
+- (1249) Minimum Remove to Make Valid Parentheses +
