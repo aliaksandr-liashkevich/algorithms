@@ -1,6 +1,6 @@
 public class Solution
 {
-    private const char DELETE_CHAR = '*';
+    private const char DELETION_MARKER = '*';
 
     // Time: O(n)
     // Space: O(n)
@@ -22,7 +22,7 @@ public class Solution
             {
                 if (openBracketIndexStack.Count == 0)
                 {
-                    result[index] = DELETE_CHAR;
+                    result[index] = DELETION_MARKER;
                 }
                 else
                 {
@@ -33,9 +33,9 @@ public class Solution
 
         while (openBracketIndexStack.Count > 0)
         {
-            result[openBracketIndexStack.Pop()] = DELETE_CHAR;
+            result[openBracketIndexStack.Pop()] = DELETION_MARKER;
         }
 
-        return string.Concat(result.Where(c => c != DELETE_CHAR));
+        return string.Concat(result.Where(c => c != DELETION_MARKER));
     }
 }
