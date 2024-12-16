@@ -26,11 +26,6 @@ public class Solution
             prevIndexStack.Push(currIndex);
         }
 
-        while (prevIndexStack.Count > 0)
-        {
-            answer[prevIndexStack.Pop()] = 0;
-        }
-
         return answer.ToArray();
     }
 }
