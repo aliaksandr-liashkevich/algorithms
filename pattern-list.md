@@ -59,6 +59,7 @@
 - Add Two Numbers +
 - (14) Longest Common Prefix +
 - (498) Diagonal Traverse +
+- Balanced Parantheses (Without Stack) +
 
 Сумма значений и индексов при нахождении ответа
 - (268) Missing Number +

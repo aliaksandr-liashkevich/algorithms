@@ -4,9 +4,9 @@ public class Solution
     // Space: O(n/2) ~ O(n)
     public bool IsValid(string s)
     {
-        bool isBalanced = (s.Length & 1) == 0;
+        bool hasBalancedLength = (s.Length & 1) == 0;
 
-        if (!isBalanced)
+        if (!hasBalancedLength)
         {
             return false;
         }
