@@ -150,3 +150,10 @@
 ## Trie
 Структуры данных
 - (208) Implement Trie (Prefix Tree) +
+
+## Competitions
+- (1572) Matrix Diagonal Sum
+- (15) 3Sum
+- (16) 3Sum Closest
+- Simple Calculator +
+- Chance of Meatball Precipitations +
