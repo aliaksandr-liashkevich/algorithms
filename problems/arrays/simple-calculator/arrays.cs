@@ -3,6 +3,8 @@
 
 public class Solution
 {
+    // Time: O(n)
+    // Space: O(1)
     public int Calculate(string s)
     {
         char sign = '+';

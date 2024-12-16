@@ -11,6 +11,7 @@ public class Solution
             return closestSum;
         }
 
+        // Space: O(sorting-array)
         Array.Sort(nums);
 
         int i = 0;

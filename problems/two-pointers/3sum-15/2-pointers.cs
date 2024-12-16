@@ -1,11 +1,14 @@
 public class Solution
 {
+    // k - the nunber of triple pairs
     // Time: O(n^2)
-    // Space: O(sorting-array)
+    // Space: O(n^2) or O(k)
     public IList<IList<int>> ThreeSum(int[] nums)
     {
+        // Space: O(sorting-array)
         Array.Sort(nums);
 
+        // Space: O(n^2/constant) or O(k)
         IList<IList<int>> answer = new List<IList<int>>();
 
         int i = 0;

@@ -4,6 +4,8 @@
 
 public class Solution
 {
+    // Time: O(n)
+    // Space: O(1)
     public double ChanceOfMeatballPrecipitations(string gene, int k)
     {
         if (k <= 0 || k > gene.Length)
