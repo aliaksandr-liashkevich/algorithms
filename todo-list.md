@@ -1,5 +1,6 @@
 Sliding Window
 - (424) Longest Repeating Character Replacement
+- Chance of Meatball Precipitations via Hash Table
 
 Binary Search
 - (81) Search in Rotated Sorted Array II
