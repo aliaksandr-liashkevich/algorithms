@@ -171,3 +171,4 @@
 - (739) Daily Temperatures +
 - (1249) Minimum Remove to Make Valid Parentheses +
 - (150) Evaluate Reverse Polish Notation +
+- (71) Simplify Path +
