@@ -160,3 +160,10 @@
 - (16) 3Sum Closest
 - Simple Calculator +
 - Chance of Meatball Precipitations +
+
+## Intervals
+- (56) Merge Intervals
+- (253) Meeting Rooms II
+
+## Stack
+- (20) Valid Parentheses
