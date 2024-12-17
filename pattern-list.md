@@ -163,8 +163,14 @@
 - Chance of Meatball Precipitations +
 
 ## Intervals
+Общие
 - (56) Merge Intervals +
+- (986) Interval List Intersections +
+- (452) Minimum Number of Arrows to Burst Balloons +
+
+Точки
 - (253) Meeting Rooms II +
+- (1094) Car Pooling +
 
 ## Stack
 - (20) Valid Parentheses +
