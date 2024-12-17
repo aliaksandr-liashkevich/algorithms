@@ -7,8 +7,8 @@ public class Solution
     public string DecodeString(string s)
     {
         int digits = 0;
+        StringBuilder currBuilder = new();
         Stack<(StringBuilder Builder, int Repetitions)> stack = new();
-        stack.Push((new StringBuilder(), Repetitions: 0));
 
         int i = 0;
 
@@ -20,29 +20,29 @@ public class Solution
             }
             else if (symbol == OPEN_BRACKET)
             {
-                stack.Push((new StringBuilder(), digits));
+                stack.Push((currBuilder, digits));
                 digits = 0;
+                currBuilder = new StringBuilder();
             }
             else if (symbol == CLOSE_BRACKET)
             {
-                (StringBuilder encodedBuilder, int repetitions) = stack.Pop();
-                StringBuilder decodedBuilder = stack.Peek().Builder;
+                (StringBuilder prevBuilder, int repetitions) = stack.Pop();
 
                 while (repetitions > 0)
                 {
-                    decodedBuilder.Append(encodedBuilder);
+                    prevBuilder.Append(currBuilder);
                     repetitions--;
                 }
+
+                currBuilder = prevBuilder;
             }
             else
             {
-                StringBuilder builder = stack.Peek().Builder;
-                builder.Append(symbol);
+                currBuilder.Append(symbol);
             }
         }
 
-        StringBuilder resultBuilder = stack.Pop().Builder;
-        return resultBuilder.ToString();
+        return currBuilder.ToString();
 
         bool IsDigit(char symbol) => symbol >= '0' && symbol <= '9';
     }
