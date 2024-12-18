@@ -178,3 +178,9 @@
 - (1249) Minimum Remove to Make Valid Parentheses +
 - (150) Evaluate Reverse Polish Notation +
 - (71) Simplify Path +
+
+## Dynamic Programming
+Псевдографы
+- (62) Unique Paths +
+- (63) Unique Paths II +
+- (64) Minimum Path Sum +
