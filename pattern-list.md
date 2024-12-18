@@ -184,3 +184,16 @@
 - (62) Unique Paths +
 - (63) Unique Paths II +
 - (64) Minimum Path Sum +
+
+## Graph
+BFS, DFS
+- (200) Number of Islands +
+- (130) Surrounded Regions +
+- (695) Max Area of Island +
+- (1091) Shortest Path in Binary Matrix (BFS) +
+
+Топологическая сортировка
+- (207) Course Schedule (DFS) +
+- (210) Course Schedule II (DFS) +
+
+Дейкстры, Беллмана-Форда
