@@ -124,6 +124,7 @@
 - (19) Remove Nth Node From End of List
 - (23) Merge k Sorted Lists
 - (83) Remove Duplicates from Sorted List
+- (2) Add Two Numbers
 
 ## Binary Tree
 Обходы

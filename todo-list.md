@@ -9,7 +9,6 @@ Linked List
 - (141) Linked List Cycl
 - (142) Linked List Cycle II
 - (1019) Next Greater Node In Linked List
-- (2) Add Two Numbers
 
 Binary Tree
 
