@@ -101,10 +101,6 @@ Sliding Window
 - (76) Minimum Window Substring
 - (239) Sliding Window Maximum
 
-Graph
-
-- (657) Robot Return to Origin (Почти)
-
 DP
 
 - (121) Best Time to Buy and Sell Stock
