@@ -125,6 +125,11 @@
 - (23) Merge k Sorted Lists
 - (83) Remove Duplicates from Sorted List
 - (2) Add Two Numbers
+- (143) Reorder List
+- (160) Intersection of Two Linked Lists
+- (141) Linked List Cycle
+- (142) Linked List Cycle II
+- (1019) Next Greater Node In Linked List
 
 ## Binary Tree
 Обходы

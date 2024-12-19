@@ -2,14 +2,6 @@ Random Numbers
 
 - Реализация своего генератора рандомных чисел. Один из самых простых способов - использовать метод Фибоначи с запаздыванием . Попробуй реализовать его по описанию из статьи! https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%A4%D0%B8%D0%B1%D0%BE%D0%BD%D0%B0%D1%87%D1%87%D0%B8_%D1%81_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B7%D0%B4%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8
 
-Linked List
-
-- (143) Reorder List
-- (160) Intersection of Two Linked Lists
-- (141) Linked List Cycl
-- (142) Linked List Cycle II
-- (1019) Next Greater Node In Linked List
-
 Binary Tree
 
 - (111) Minimum Depth of Binary Tree
