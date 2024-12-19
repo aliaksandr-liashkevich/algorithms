@@ -31,6 +31,7 @@ Array
 - (1329) Sort the Matrix Diagonally
 - (5) Longest Palindromic Substring (Manacher's Algorithm - нужно знать)
 - (2241) Design an ATM Machine
+- (769) Max Chunks To Make Sorted
 
 Interval
 
