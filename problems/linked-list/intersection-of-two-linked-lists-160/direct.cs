@@ -8,6 +8,8 @@
  */
 public class Solution
 {
+    // Time: O(a * b)
+    // Space: O(1)
     public ListNode GetIntersectionNode(ListNode headA, ListNode headB)
     {
         ListNode pA = headA;

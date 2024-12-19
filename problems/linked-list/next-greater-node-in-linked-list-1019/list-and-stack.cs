@@ -11,6 +11,8 @@
  */
 public class Solution
 {
+    // Time: O(2n) ~ O(n)
+    // Space: O(2n) ~ O(n)
     public int[] NextLargerNodes(ListNode head)
     {
         if (head is null)

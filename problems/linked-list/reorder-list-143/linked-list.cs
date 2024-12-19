@@ -11,6 +11,8 @@
  */
 public class Solution
 {
+    // Time: O(3n) ~ O(n)
+    // Space: O(1)
     public void ReorderList(ListNode head)
     {
         ListNode preMiddle = FindPreMiddle(head);
