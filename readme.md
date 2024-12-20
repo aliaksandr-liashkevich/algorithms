@@ -63,6 +63,7 @@
 - (498) Diagonal Traverse
 - Balanced Parantheses (Without Stack)
 - (657) Robot Return to Origin
+- (18) 4Sum (Sliding Window or HashTable)
 
 Сумма значений и индексов при нахождении ответа
 - (268) Missing Number
@@ -102,6 +103,7 @@
 - (283) Move Zeroes
 - (161) One Edit Distance
 - (977) Squares of a Sorted Array
+- (42) Trapping Rain Water (2 Pointers or Sliding Window)
 
 ## Heaps
 - (215) Kth Largest Element in an Array

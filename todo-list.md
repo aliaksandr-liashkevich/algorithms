@@ -42,7 +42,6 @@ Two Pointers
 - (1385) Find the Distance Value Between Two Arrays (Binary Search)
 - (26) Remove Duplicates from Sorted Array
 - (680) Valid Palindrome II
-- (42) Trapping Rain Water
 
 Sorting
 
@@ -60,7 +59,6 @@ Stack
 
 HashTables
 
-- (18) 4Sum
 - (350) Intersection of Two Arrays II
 - (2215) Find the Difference of Two Arrays
 - (763) Partition Labels
