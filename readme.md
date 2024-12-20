@@ -64,6 +64,7 @@
 - Balanced Parantheses (Without Stack)
 - (657) Robot Return to Origin
 - (18) 4Sum (Sliding Window or HashTable)
+- (217) Contains Duplicate
 
 Сумма значений и индексов при нахождении ответа
 - (268) Missing Number
