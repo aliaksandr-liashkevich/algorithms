@@ -63,10 +63,6 @@ HashTables
 - (2215) Find the Difference of Two Arrays
 - (763) Partition Labels
 
-Heap
-
-- (347) Top K Frequent Elements
-
 Count (Sort)
 
 - (451) Sort Characters By Frequency
