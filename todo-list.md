@@ -12,7 +12,6 @@ Array
 - Repeat and Missing number array https://www.interviewbit.com/problems/repeat-and-missing-number-array/
 - (509) Fibonacci Number
 - (1732) Find the Highest Altitude
-- (1314) Matrix Block Sum
 - (1074) Number of Submatrices That Sum to Target
 - (27) Remove Element
 - (169) Majority Element

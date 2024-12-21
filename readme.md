@@ -49,6 +49,7 @@
 - Max Queen Sum
 - (304) Range Sum Query 2D - Immutable
 - (1310) XOR Queries of a Subarray
+- (1314) Matrix Block Sum
 
 ## Arrays
 
