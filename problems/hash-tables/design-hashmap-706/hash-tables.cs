@@ -25,6 +25,7 @@ public class MyHashMap
                 Key = key,
                 Value = value,
             });
+            _count+;
         }
         else
         {
