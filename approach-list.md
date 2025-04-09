@@ -42,8 +42,8 @@
 - How to avoid overflow When adding
 - Bits (Array) to Number
 - AND, OR, XOR, NOT
-- << 1 | * 2
-- >> 1 | / 2
+- Left shift | << 1 | * 2
+- Right shift | >> 1 | / 2
 - Set Bit
 - Reset Bit
 - Invert Bit
